@@ -9,3 +9,7 @@ Tareas:
 4. Subir los cambios
 ` git push origin main `
 5. Verificar los cambios
+
+---
+> Para descargar las actualizaciones del repositorio utilizar:
+` git pull `
